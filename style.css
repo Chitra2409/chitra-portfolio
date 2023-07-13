@@ -1,0 +1,49 @@
+.overview{
+    text-align: center;
+     
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    padding: 20px;
+    
+}
+.image-container{
+     flex-direction:column;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     background-color: #f5dce7;
+}
+.myphoto{
+    height:200px;
+    width:200px; 
+    border-radius:50%;
+    margin-top:30px;
+
+}
+.image-container p{
+    text-align: center;
+    padding:10px;
+}
+#work-experience{
+    background-color:#f1e4ea;
+}
+.photos{
+    border-radius: 25%;
+    margin-bottom: 20px;
+}
+footer{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+.contact{
+    background-color:#e6dde1;
+    text-align:center;
+    padding:20px;
+}
+li{
+    padding:5px;
+}
+
+
+
